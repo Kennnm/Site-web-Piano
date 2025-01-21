@@ -1,0 +1,9 @@
+.bt{
+
+    cursor: pointer;
+    transition: 0.3ms ease;
+}
+
+.bt:hover{
+    transform: scale(1.1);
+}
